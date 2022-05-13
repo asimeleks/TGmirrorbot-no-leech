@@ -1,1 +1,1 @@
-./aria.sh; python3 -m bot
+./aria.sh; python3 upstream.py && python3 -m bot
